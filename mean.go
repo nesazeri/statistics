@@ -1,4 +1,4 @@
-package stats
+package statistics
 
 func Mean(data []float64) float64 {
     sum := 0.0
